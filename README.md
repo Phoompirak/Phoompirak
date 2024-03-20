@@ -21,7 +21,7 @@ I'v been learnning React.js for 2month
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Phoompirak"><img src="https://github-readme-stats.vercel.app/api?username=Phoompirak&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="Phoompirak's GitHub stats" style="width: 49%; height: 200px; align-items: rigth;" /></a><a href="http://www.github.com/Phoompirak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Phoompirak&stroke=ffffff&background=171717&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="width: 51%; align-items: rigth;" /></a>
+<a href="http://www.github.com/Phoompirak"><img src="https://github-readme-stats.vercel.app/api?username=Phoompirak&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="Phoompirak's GitHub stats" style="width: 100%; height: 200px; align-items: rigth;" /></a>
 
 <div align="left">
   <a href="https://github.com/Phoompirak">

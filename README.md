@@ -22,14 +22,3 @@ I'v been learnning React.js for 2month
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Phoompirak"><img src="https://github-readme-stats.vercel.app/api?username=Phoompirak&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="Phoompirak's GitHub stats" style="width: 100%; height: 200px; align-items: rigth;" /></a>
-
-<div align="left">
-  <a href="https://github.com/Phoompirak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" style="width: 100%; height: 200px;">
-  </a>
-</div>
-
-@media screen and (max-width: 1093px) {
- display: flex;
- flex-flow: column wrap;
-}

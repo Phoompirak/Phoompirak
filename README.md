@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I'v been learnning React.js for 2month
+I'v been learnning Next.JS for 4months
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning Tailwind CSS, Cyber security
+* 🧠  I'm learning Next JS, Cyber security Base
 
 <table align="center"><tr><td valign="top" width="100%" >
 <h1>Skills</h1>

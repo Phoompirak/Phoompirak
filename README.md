@@ -27,19 +27,17 @@
 
 </div>
 
-About me
+---
 
-🇹🇭 Based in Thailand
+## About me
 
-💻 Building web applications with React, Next.js, Node.js and TypeScript
+- 🇹🇭 Based in Thailand
+- 💻 Building web applications with **React, Next.js, Node.js and TypeScript**
+- 🔐 Learning **cybersecurity fundamentals** and exploring **AI engineering**
+- 🎨 Combining code with design, motion, video and 3D
+- 📫 Reach me at **[rakpumpum@gmail.com](mailto:rakpumpum@gmail.com)**
 
-🔐 Learning cybersecurity fundamentals and exploring AI engineering
-
-🎨 Combining code with design, motion, video and 3D
-
-📫 Reach me at rakpumpum@gmail.com
-
-Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb&amp;perline=12" alt="Development tools and technologies" />
@@ -49,7 +47,7 @@ Tech stack
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender&amp;perline=5" alt="Creative tools" />
 </p>
 
-Featured achievement
+## Featured achievement
 
 <p align="center">
   <img src="assets/certificates/rsu-rookie-game-dev-2025.jpg" width="72%" alt="Second runner-up certificate from RSU Rookie Game Dev 2025" /><br />
@@ -57,26 +55,14 @@ Featured achievement
   <sub>National-level game development competition · Rangsit University</sub>
 </p>
 
-GitHub activity
+### GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Phoompirak&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=22D3EE" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Phoompirak&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0891B2&amp;text_color=334155&amp;icon_color=0891B2" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phoompirak&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=22D3EE" alt="Phoompirak's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0891B2&amp;text_color=334155" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1" alt="Phoompirak's most used languages" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Phoompirak&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=22D3EE" alt="Phoompirak's GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1" alt="Phoompirak's most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Phoompirak&amp;label=PROFILE+VIEWS&amp;color=0891b2&amp;style=flat-square" alt="Profile views" />
-</p>
-
-Repository analytics
+## Repository analytics
 
 <table align="center">
   <tr>
@@ -85,7 +71,7 @@ Repository analytics
   </tr>
 </table>
 
-Selected certificates
+## Selected certificates
 
 <details>
 <summary>View certificates</summary>
@@ -98,7 +84,7 @@ Selected certificates
 <p align="center"><sub>Computer Programming · Coding &amp; AI · React Portfolio Development</sub></p>
 </details>
 
-Visitor counter
+## Visitor counter
 
 <p align="center">
   <a href="https://github.com/journey-ad/Moe-Counter">

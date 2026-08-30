@@ -64,20 +64,18 @@ GitHub activity
   </picture>
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Phoompirak&amp;label=PROFILE+VIEWS&amp;color=0891b2&amp;style=flat-square" alt="Profile views" />
-</div>
+</p>
 
 Repository analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phoompirak&amp;theme=github_dark" width="49%" alt="Repositories per language" />
-  <a href="https://github.com/Phoompirak?tab=repositories&amp;type=source&amp;sort=stargazers">
-    <img src="https://img.shields.io/badge/VIEW_TOP_10_REPOS_BY_STARS-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="View top repositories by stars" />
-  </a>
-</p>
-
-<p align="center"><sub>Repos per Language · <a href="https://github.com/Phoompirak?tab=repositories&amp;type=source&amp;sort=stargazers">Stars per Repo (top 10)</a></sub></p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><sub>Repos per Language</sub><br /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phoompirak&amp;theme=github_dark" width="100%" alt="Repositories per language" /></td>
+    <td align="center" width="50%"><sub>Stars per Repo (top 10)</sub><br /><a href="https://github.com/Phoompirak?tab=repositories&amp;type=source&amp;sort=stargazers"><img src="assets/stars-per-repo.svg" width="100%" alt="Stars per repository, top 10" /></a></td>
+  </tr>
+</table>
 
 Selected certificates
 
@@ -89,11 +87,7 @@ Selected certificates
   <img src="assets/certificates/coding-ai-2025.jpg" width="31%" alt="National Coding and AI Competition certificate" />
   <img src="assets/certificates/react-portfolio-futureskill.jpg" width="31%" alt="FutureSkill React portfolio certificate" />
 </p>
-
-<p align="center">
-  <sub>Computer Programming · Coding &amp; AI · React Portfolio Development</sub>
-</p>
-
+<p align="center"><sub>Computer Programming · Coding &amp; AI · React Portfolio Development</sub></p>
 </details>
 
 Visitor counter

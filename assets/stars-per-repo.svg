@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<style>text{font-family:Inter,Arial,sans-serif;fill:#e2e8f0}.title{font-size:25px;font-weight:600}.muted{font-size:15px;fill:#94a3b8}</style>
+<rect width="900" height="500" rx="16" fill="#0b1220"/>
+<text x="40" y="48" class="title">Stars per Repo (top 10)</text>
+<circle cx="610" cy="275" r="145" fill="none" stroke="#1e293b" stroke-width="63"/>
+<text x="610" y="270" text-anchor="middle" class="muted">Run the workflow</text>
+<text x="610" y="296" text-anchor="middle" class="muted">to load live stars</text>
+</svg>

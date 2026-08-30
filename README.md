@@ -49,6 +49,14 @@ Tech stack
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender&amp;perline=5" alt="Creative tools" />
 </p>
 
+Featured achievement
+
+<p align="center">
+  <img src="assets/certificates/rsu-rookie-game-dev-2025.jpg" width="72%" alt="Second runner-up certificate from RSU Rookie Game Dev 2025" /><br />
+  <strong>🥉 Second Runner-up · RSU Rookie Game Dev 2025</strong><br />
+  <sub>National-level game development competition · Rangsit University</sub>
+</p>
+
 GitHub activity
 
 <p align="center">

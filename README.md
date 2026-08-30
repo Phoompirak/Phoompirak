@@ -1,77 +1,107 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phoompirak karajak
-==========================================================================================================================================
+<div align="center">
 
-* 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My portfolio web site](http://designer-portfolio-two.vercel.app/)
-* ✉️  You can contact me at [rakpumpum@gmail.com](mailto:rakpumpum@gmail.com)
-* 🧠  I'm learning React.js, Next.js, Cyber security Base
+<h1>Hi, I'm Phoompirak <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="waving hand" /></h1>
 
-### 🧠 Skills
+<p><strong>Full-stack developer in progress · Cybersecurity learner · Creative maker</strong></p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding animation" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Building+useful+things+with+code;Exploring+Full-stack%2C+Cybersecurity+%26+AI;Based+in+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing introduction" />
+</a>
+
+<br />
+
+<a href="https://designer-portfolio-two.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=flat-square&logo=vercel&logoColor=22D3EE" alt="Portfolio" />
+</a>
+<a href="mailto:rakpumpum@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0F172A?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email" />
+</a>
+<a href="https://www.instagram.com/phoomkrj">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0F172A?style=flat-square&logo=instagram&logoColor=22D3EE" alt="Instagram" />
+</a>
+<a href="https://www.youtube.com/@phoom300x">
+  <img src="https://img.shields.io/badge/YOUTUBE-0F172A?style=flat-square&logo=youtube&logoColor=22D3EE" alt="YouTube" />
+</a>
+
+</div>
+
+About me
+
+🇹🇭 Based in Thailand
+
+💻 Building web applications with React, Next.js, Node.js and TypeScript
+
+🔐 Learning cybersecurity fundamentals and exploring AI engineering
+
+🎨 Combining code with design, motion, video and 3D
+
+📫 Reach me at rakpumpum@gmail.com
+
+Tech stack
 
 <p align="center">
-  <!-- Row 1 -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="Next.js" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="Express" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="40" height="40" alt="Illustrator" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="40" height="40" alt="After Effects" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="40" height="40" alt="Premiere Pro" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="40" height="40" alt="Blender" />
+  <img src="https://skillicons.dev/icons?i=git,js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb&amp;perline=12" alt="Development tools and technologies" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender&amp;perline=5" alt="Creative tools" />
+</p>
+
+GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Phoompirak&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=22D3EE" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Phoompirak&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0891B2&amp;text_color=334155&amp;icon_color=0891B2" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phoompirak&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=22D3EE" alt="Phoompirak's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0891B2&amp;text_color=334155" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1" alt="Phoompirak's most used languages" />
+  </picture>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Phoompirak&amp;label=PROFILE+VIEWS&amp;color=0891b2&amp;style=flat-square" alt="Profile views" />
+</div>
+
+Repository analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phoompirak&amp;theme=github_dark" width="49%" alt="Repositories per language" />
+  <a href="https://github.com/Phoompirak?tab=repositories&amp;type=source&amp;sort=stargazers">
+    <img src="https://img.shields.io/badge/VIEW_TOP_10_REPOS_BY_STARS-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="View top repositories by stars" />
   </a>
 </p>
 
+<p align="center"><sub>Repos per Language · <a href="https://github.com/Phoompirak?tab=repositories&amp;type=source&amp;sort=stargazers">Stars per Repo (top 10)</a></sub></p>
 
-### Socials
+Selected certificates
 
-<p align="left"> <a href="https://discord.com/users/phoom300x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/Phoom 300x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Phoompirak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/phoomkrj" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@phoom300x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<details>
+<summary>View certificates</summary>
 
+<p align="center">
+  <img src="assets/certificates/coding-competition-m4.jpg" width="31%" alt="Gold medal in a computer programming competition" />
+  <img src="assets/certificates/coding-ai-2025.jpg" width="31%" alt="National Coding and AI Competition certificate" />
+  <img src="assets/certificates/react-portfolio-futureskill.jpg" width="31%" alt="FutureSkill React portfolio certificate" />
+</p>
 
- ## <b>My GitHub Stats</b>
+<p align="center">
+  <sub>Computer Programming · Coding &amp; AI · React Portfolio Development</sub>
+</p>
 
-<a href="http://www.github.com/Phoompirak"><img src="https://github-readme-stats.vercel.app/api?username=Phoompirak&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="Phoompirak's GitHub stats" style="width: 100%; height: 200px; align-items: rigth;" /></a>
+</details>
 
-<a href="https://github.com/Phoompirak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="width: 100%; height: 380px; align-items: center;"/></a>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Phoompirak&&style=flat-square" align="center" />
-</div>  
+Visitor counter
 
+<p align="center">
+  <a href="https://github.com/journey-ad/Moe-Counter">
+    <img src="https://count.getloli.com/@Phoompirak?name=Phoompirak&amp;theme=booru-lewd&amp;padding=0&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="Phoompirak anime visitor counter" />
+  </a>
+</p>
+
+<p align="center"><sub>Keep learning. Keep building.</sub></p>

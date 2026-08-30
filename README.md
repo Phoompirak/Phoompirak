@@ -27,17 +27,23 @@
 
 </div>
 
----
+01 · About me
 
-## About me
+🇹🇭 Based in Thailand
 
-- 🇹🇭 Based in Thailand
-- 💻 Building web applications with **React, Next.js, Node.js and TypeScript**
-- 🔐 Learning **cybersecurity fundamentals** and exploring **AI engineering**
-- 🎨 Combining code with design, motion, video and 3D
-- 📫 Reach me at **[rakpumpum@gmail.com](mailto:rakpumpum@gmail.com)**
+💻 Building web applications with React, Next.js, Node.js and TypeScript
 
-## Tech stack
+🔐 Learning cybersecurity fundamentals and exploring AI engineering
+
+🎨 Combining code with design, motion, video and 3D
+
+📫 Reach me at rakpumpum@gmail.com
+
+02 · Toolbox
+
+Development
+
+Creative
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb&amp;perline=12" alt="Development tools and technologies" />
@@ -47,7 +53,9 @@
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender&amp;perline=5" alt="Creative tools" />
 </p>
 
-## Featured achievement
+03 · Proof of work
+
+Featured achievement
 
 <p align="center">
   <img src="assets/certificates/rsu-rookie-game-dev-2025.jpg" width="72%" alt="Second runner-up certificate from RSU Rookie Game Dev 2025" /><br />
@@ -55,23 +63,23 @@
   <sub>National-level game development competition · Rangsit University</sub>
 </p>
 
-### GitHub activity
+04 · GitHub snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Phoompirak&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=22D3EE" alt="Phoompirak's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoompirak&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=22D3EE&amp;text_color=CBD5E1" alt="Phoompirak's most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phoompirak&amp;theme=github_dark" alt="Phoompirak's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phoompirak&amp;theme=github_dark" alt="Phoompirak's most used languages" />
 </p>
 
-## Repository analytics
+Repository breakdown
 
 <table align="center">
   <tr>
-    <td align="center" width="50%"><sub>Repos per Language</sub><br /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phoompirak&amp;theme=github_dark" width="100%" alt="Repositories per language" /></td>
-    <td align="center" width="50%"><sub>Stars per Repo (top 10)</sub><br /><a href="https://github.com/Phoompirak?tab=repositories&amp;type=source&amp;sort=stargazers"><img src="assets/stars-per-repo.svg" width="100%" alt="Stars per repository, top 10" /></a></td>
+    <td align="center" width="50%"><strong>Repos per Language</strong><br /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phoompirak&amp;theme=github_dark" width="100%" alt="Repositories per language" /></td>
+    <td align="center" width="50%"><strong>Stars per Repo · Top 10</strong><br /><a href="https://github.com/Phoompirak?tab=repositories&amp;type=source&amp;sort=stargazers"><img src="assets/stars-per-repo.svg" width="100%" alt="Stars per repository, top 10" /></a></td>
   </tr>
 </table>
 
-## Selected certificates
+Selected certificates
 
 <details>
 <summary>View certificates</summary>
@@ -84,7 +92,7 @@
 <p align="center"><sub>Computer Programming · Coding &amp; AI · React Portfolio Development</sub></p>
 </details>
 
-## Visitor counter
+05 · Signature
 
 <p align="center">
   <a href="https://github.com/journey-ad/Moe-Counter">
